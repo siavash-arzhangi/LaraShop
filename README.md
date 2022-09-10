@@ -1,5 +1,5 @@
 # LaraShop
-Laravel e-Commerce Restful API
+ Laravel e-Commerce Restful API
 
-##Endpoints
-> [Postman Collection](LaraShop.Collection.json)
+ ##Endpoints
+ > [Postman Collection](LaraShop.Collection.json)
