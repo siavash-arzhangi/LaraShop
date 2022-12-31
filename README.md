@@ -22,3 +22,5 @@ $ php artisan migrate
 
 ## Endpoints
 > [Postman Collection](LaraShop.Collection.json)
+
+[![alt text](https://nowpayments.io/images/embeds/donation-button-black.svg)](https://nowpayments.io/donation?api_key=PCNMMRF-A98M4XA-QP2FE4M-EXQ96C7)
